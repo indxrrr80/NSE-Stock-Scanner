@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="NSE Stock Scanner Banner" width="100%">
+</p>
+
+# 📈 NSE Stock Scanner
 # 📈 NSE Stock Scanner
 
 A Python-based NSE Stock Scanner developed to analyze daily NSE Bhavcopy data and identify trading opportunities using different stock screening strategies.

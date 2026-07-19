@@ -11,6 +11,9 @@ venv/
 # Output Reports
 Output/
 
+# Dataset
+Data/
+
 # Logs
 Logs/
 
